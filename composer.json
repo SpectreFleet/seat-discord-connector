@@ -8,8 +8,8 @@
         }
     },
     "require": {
-        "eveseat/eveapi": "^3.0",
-        "eveseat/web": "^3.0",
+        "spectrefleet/eveapi": "^3.0",
+        "spectrefleet/web": "^3.0",
         "erusev/parsedown": "^1.7",
         "restcord/restcord": "^0.3"
     },
